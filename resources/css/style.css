@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
+  scroll-behavior: smooth;
 }
 html {
   scroll-behavior: smooth;
@@ -244,7 +245,7 @@ section .title::after {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #A327F1;
+  background: #000000;
   display: grid;
   align-items: center;
   text-align: center;
