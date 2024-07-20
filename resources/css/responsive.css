@@ -119,4 +119,10 @@
     font-size: 23px;
     line-height: 38px;
   }
+
+    .about .about-content .left img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
 }
